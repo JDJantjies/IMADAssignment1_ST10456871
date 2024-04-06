@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">IMADAssignment1</string>
+    <string name="textPrompt">Enter Your Age</string>
+    <string name="textHint">Enter Age Here</string>
+    <string name="factTextView">Fact Generator</string>
+    <string name="button1text">Generate</string>
+    <string name="button2text">Clear</string>
+</resources>
